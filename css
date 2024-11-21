@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Amarante';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(s/amarante/v22/xMQXuF1KTa6EvGx9bp-wAX4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Convergence';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(s/convergence/v15/rax5HiePvdgXPmmMHcIPYShdu0o.ttf) format('truetype');
+}

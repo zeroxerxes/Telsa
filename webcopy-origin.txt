@@ -1,0 +1,616 @@
+Uri: https://fonts.googleapis.com/css?family=quicksand|Amarante&display=fallback
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/amarante/v22/xMQXuF1KTa6EvGx9bp-wAX4.ttf
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\s\amarante\v22\xMQXuF1KTa6EvGx9bp-wAX4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v15/rax5HiePvdgXPmmMHcIPYShdu0o.ttf
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\s\quicksand\v15\rax5HiePvdgXPmmMHcIPYShdu0o.ttf
+Content Type: font/ttf
+
+Uri: https://Bondsdachshunds.com/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/about/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\about\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/chihuahua/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\chihuahua\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/comments/feed/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://Bondsdachshunds.comhttps://getform.io/f/9449c247-ce3d-4409-b231-efaae7161f78
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/dachshund/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\dachshund\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/faqs/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\faqs\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/feed/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://Bondsdachshunds.com/health-guarantee/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\health-guarantee\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/our-puppies/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\our-puppies\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://Bondsdachshunds.com/purchase-procedure/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\purchase-procedure\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/testimonials/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://Bondsdachshunds.com/wp-json/
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fchihuahua%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fchihuahua%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fdachshund%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fdachshund%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fhealth-guarantee%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fhealth-guarantee%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Four-puppies%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Four-puppies%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fpurchase-procedure%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Fpurchase-procedure%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Ftestimonials%2F
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/oembed/1.0/embed?url=https:%2F%2FBondsdachshunds.com%2Ftestimonials%2F&format=xml
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/18
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\18
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/43
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\43
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/45
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\45
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/518
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\518
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/523
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\523
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/54
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\54
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/56
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\56
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/wp-json/wp/v2/pages/932
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wp-json\wp\v2\pages\932
+Content Type: application/json
+
+Uri: https://Bondsdachshunds.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://img6.wsimg.com/wrhs/362d20193a8fed115f99b16a157b7fc4/tccl.min.js
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wrhs\362d20193a8fed115f99b16a157b7fc4\tccl.min.js
+Content Type: application/javascript
+
+Uri: https://img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\wrhs\ce554d2333f3801abafb32da18213ff7\tti.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=1.0.1&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\column-shortcodes\assets\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.2&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\css\button-styles.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.eot?v=4.0.3
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.svg?v=4.0.3
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.ttf?v=4.0.3
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.woff?v=4.0.3
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/wpforms/assets/css/wpforms-full.css?ver=1.4.7.1&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\wpforms\assets\css\wpforms-full.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/wpforms/assets/js/jquery.inputmask.bundle.min.js?ver=4.0.0-beta.24&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\wpforms\assets\js\jquery.inputmask.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/wpforms/assets/js/jquery.validate.min.js?ver=1.15.1&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\wpforms\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/plugins/wpforms/assets/js/wpforms.js?ver=1.4.7.1&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\plugins\wpforms\assets\js\wpforms.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/images/noise.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\images\noise.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/js/conic-gradient.js?ver=1.0&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\js\conic-gradient.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/js/iframe-fix.js?ver=20181226&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\js\iframe-fix.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/js/mouse-xy.js?ver=20200614&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\js\mouse-xy.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/js/prefixfree.jquery.js?ver=1.0.7&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\js\prefixfree.jquery.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/js/prefixfree.js?ver=1.0.7.3&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\js\prefixfree.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/js/prefixfree.vars.js?ver=1.0.7&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\js\prefixfree.vars.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/themes/twenty8teen/style.css?ver=20210511&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\themes\twenty8teen\style.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2020/11/Stephanie-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2020\11\Stephanie-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2020/11/Stephanie-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2020\11\Stephanie-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2020/11/Stephanie.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2020\11\Stephanie.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Charmane-Testimonial-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Charmane-Testimonial-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Charmane-Testimonial-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Charmane-Testimonial-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Charmane-Testimonial.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Charmane-Testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/John-Theresa-Testimonial.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\John-Theresa-Testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Max-005-300x231.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Max-005-300x231.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Max-005.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Max-005.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Stella-001-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Stella-001-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Stella-001-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Stella-001-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/01/Stella-001.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\01\Stella-001.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/cropped-cropped-header-image-cropped-2-1-300x36.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\cropped-cropped-header-image-cropped-2-1-300x36.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/cropped-cropped-header-image-cropped-2-1.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\cropped-cropped-header-image-cropped-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/e-230x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\e-230x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/e.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\e.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/image_2021-02-11_005254-150x150.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\image_2021-02-11_005254-150x150.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/image_2021-02-11_005254.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\image_2021-02-11_005254.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/Melissa-Testimonial-300x200.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\Melissa-Testimonial-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/Melissa-Testimonial.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\Melissa-Testimonial.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/Screenshot-2021-02-11-005031-263x300.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\Screenshot-2021-02-11-005031-263x300.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/02/Screenshot-2021-02-11-005031.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\02\Screenshot-2021-02-11-005031.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Bella-001-edited-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Bella-001-edited-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Bella-001-edited-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Bella-001-edited-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Bella-001-edited-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Bella-001-edited-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Bella-001-edited-768x769.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Bella-001-edited-768x769.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Bella-001-edited.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Bella-001-edited.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Boomer-001-edited-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Boomer-001-edited-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Boomer-001-edited-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Boomer-001-edited-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Boomer-001-edited-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Boomer-001-edited-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Boomer-001-edited-768x767.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Boomer-001-edited-768x767.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Boomer-001-edited.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Boomer-001-edited.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Coco-001-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Coco-001-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Coco-001-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Coco-001-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Coco-001-768x768.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Coco-001-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Coco-001.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Coco-001.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Daisy-001-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Daisy-001-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Daisy-001-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Daisy-001-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Daisy-001-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Daisy-001-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Daisy-001-768x768.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Daisy-001-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Daisy-001.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Daisy-001.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Dior-001-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Dior-001-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Dior-001-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Dior-001-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Dior-001-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Dior-001-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Dior-001-768x768.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Dior-001-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Dior-001.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Dior-001.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Luca-001-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Luca-001-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Luca-001-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Luca-001-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Luca-001-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Luca-001-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Luca-001-768x768.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Luca-001-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Luca-001.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Luca-001.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Max-002-edited-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Max-002-edited-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Max-002-edited-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Max-002-edited-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Max-002-edited-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Max-002-edited-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Max-002-edited-768x769.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Max-002-edited-768x769.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Max-002-edited.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Max-002-edited.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Oscar-edited-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Oscar-edited-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Oscar-edited-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Oscar-edited-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Oscar-edited.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Oscar-edited.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Zoey-001-edited-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Zoey-001-edited-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Zoey-001-edited-3-300x300.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Zoey-001-edited-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Zoey-001-edited-3-768x767.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Zoey-001-edited-3-768x767.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2021/07/Zoey-001-edited-3.jpg
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2021\07\Zoey-001-edited-3.jpg
+Content Type: image/jpeg
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/0c1d266cefd24efcad26161c801016ba-150x150.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\0c1d266cefd24efcad26161c801016ba-150x150.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/0c1d266cefd24efcad26161c801016ba.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\0c1d266cefd24efcad26161c801016ba.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba-150x150.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba-150x150.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba-180x180.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba-180x180.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba-192x192.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba-192x192.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba-270x270.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba-270x270.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba-300x300.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba-300x300.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba-32x32.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba-32x32.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-content/uploads/2022/07/cropped-0c1d266cefd24efcad26161c801016ba.png
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-content\uploads\2022\07\cropped-0c1d266cefd24efcad26161c801016ba.png
+Content Type: image/png
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/css/dashicons.min.css
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0&time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://secureservercdn.net/45.40.150.54/3mk.cfd.myftpupload.com/wp-includes/wlwmanifest.xml?time=1660851735
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\45.40.150.54\3mk.cfd.myftpupload.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-830211904
+File Name: C:\Downloaded Web Sites\Bondsdachshunds.com\gtag\js
+Content Type: application/javascript
+
